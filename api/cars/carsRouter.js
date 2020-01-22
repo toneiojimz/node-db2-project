@@ -5,7 +5,7 @@ const knexConfiguration ={
     client: "sqlite3",
 
     connection: {
-        filename: "./data/car-dealer.db3"
+        filename: "./data/cars.db3"
     },
     useNullAsDefault: true, // only for sqlite
 
